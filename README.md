@@ -17,8 +17,11 @@ a)Product ID is splited by using LEFT and Right
 =RIGHT(TEXT,LEN(TEXT)-count)
 b)Merge by using function CONCATENATE(TEXT," ",TEXT)<br><br>
 5.
-a)	Under the Number tab, choose Currency.<br><br><br><br>
+a)	Under the Number tab, choose Currency.<br><br>
 6.
 Conditional Formatting visually highlights specific cells based on custom rules, patterns, or thresholds without altering the underlying raw data.
+
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/c5b826c0-1a18-4901-ac94-ec4de1ef423e" />
+
 
  
